@@ -1,0 +1,6 @@
+{
+    "mongoPath": "mongodb://<admin>:<admin123456>@ds141611.mlab.com:41611/project__app",
+    "mongoPathlocal": "mongodb://localhost/project-api",
+    "sessionSecret": "8XnUGbLVp5WZ7mcNyk4z3H99jS3aSgRk",
+    "secureCookie": false
+  }
